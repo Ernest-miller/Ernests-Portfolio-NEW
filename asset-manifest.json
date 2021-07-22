@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/Ernests-Portfolio-OLD/static/js/main.125b4e81.chunk.js",
-    "main.js.map": "/Ernests-Portfolio-OLD/static/js/main.125b4e81.chunk.js.map",
-    "runtime-main.js": "/Ernests-Portfolio-OLD/static/js/runtime-main.a86b2a1c.js",
-    "runtime-main.js.map": "/Ernests-Portfolio-OLD/static/js/runtime-main.a86b2a1c.js.map",
-    "static/js/2.ea577432.chunk.js": "/Ernests-Portfolio-OLD/static/js/2.ea577432.chunk.js",
-    "static/js/2.ea577432.chunk.js.map": "/Ernests-Portfolio-OLD/static/js/2.ea577432.chunk.js.map",
-    "index.html": "/Ernests-Portfolio-OLD/index.html",
-    "static/js/2.ea577432.chunk.js.LICENSE.txt": "/Ernests-Portfolio-OLD/static/js/2.ea577432.chunk.js.LICENSE.txt"
+    "main.js": "/Ernests-Portfolio-NEW/static/js/main.125b4e81.chunk.js",
+    "main.js.map": "/Ernests-Portfolio-NEW/static/js/main.125b4e81.chunk.js.map",
+    "runtime-main.js": "/Ernests-Portfolio-NEW/static/js/runtime-main.d5cc0862.js",
+    "runtime-main.js.map": "/Ernests-Portfolio-NEW/static/js/runtime-main.d5cc0862.js.map",
+    "static/js/2.ea577432.chunk.js": "/Ernests-Portfolio-NEW/static/js/2.ea577432.chunk.js",
+    "static/js/2.ea577432.chunk.js.map": "/Ernests-Portfolio-NEW/static/js/2.ea577432.chunk.js.map",
+    "index.html": "/Ernests-Portfolio-NEW/index.html",
+    "static/js/2.ea577432.chunk.js.LICENSE.txt": "/Ernests-Portfolio-NEW/static/js/2.ea577432.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a86b2a1c.js",
+    "static/js/runtime-main.d5cc0862.js",
     "static/js/2.ea577432.chunk.js",
     "static/js/main.125b4e81.chunk.js"
   ]
