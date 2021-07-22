@@ -1,0 +1,53 @@
+:root {
+    --contact: #130303;
+    --txt:#f7f7ff;
+    --a-tag: #fe5f55;
+    --a-tag-hover:#130303;
+    --header-footer: #495867;
+    --main: #bdd5ea;
+    --body: #577399;
+}
+
+* { box-sizing: border-box; }
+
+body {
+    background: var(--body);
+    color: var(--txt);
+}
+
+header { background: var(--header-footer); padding: 10px; }
+
+main { background: var(--main); padding: 10px; }
+
+footer { background: var(--header-footer); padding: 10px; }
+
+.headline-paragraph { font-size: x-large; width: 750px; }
+
+.headline-h1 { text-align: center; }
+
+.contact-me-here { color: var(--contact); }
+
+.contact { text-align: center; }
+
+.nav-items { list-style-type: none; }
+
+.nav-item {
+    border: 5px solid black;
+    width: 400px;
+    height: 150px;
+    float: left;
+}
+
+.footer-nav-items {
+    text-align: center;
+    border: 5px solid black;
+    width: 400px;
+    height: 200px;
+    float: left;
+}
+
+.clear { clear:both; }
+
+a { color: var(--a-tag) }
+
+a:hover { color: var(--a-tag-hover); }
